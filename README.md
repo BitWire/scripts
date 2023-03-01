@@ -1,2 +1,2 @@
-# scripts
-Collection of random scripts I have written
+# Scripts
+Collection of random scripts I have written.
